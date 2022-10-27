@@ -37,3 +37,13 @@ num = 320
 
 print_factors(num)
 ```
+
+``` python
+if condition:
+   statement1
+statement2
+
+# Here if the condition is true, if block 
+# will consider only statement1 to be inside 
+# its block.
+```
